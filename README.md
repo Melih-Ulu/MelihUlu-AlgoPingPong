@@ -1,2 +1,8 @@
 # MelihUlu-AlgoPingPong
-This is a PingPong game in python.
+This is a simple ***ping-pong*** game.
+- Written in *Python*
+- Uses **Pygame** and other related modules.
+- Repo includes sprites used in-game.
+## Purpose
+This was made *entirely* for educational purposes.
+> It is protected by the MIT license and a thousand rats.
